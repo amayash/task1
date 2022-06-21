@@ -1,0 +1,8 @@
+D:\java\practice\1\lab1_1\lab1_1\bin\Debug\lab1_1.exe.config
+D:\java\practice\1\lab1_1\lab1_1\bin\Debug\lab1_1.exe
+D:\java\practice\1\lab1_1\lab1_1\bin\Debug\lab1_1.pdb
+D:\java\practice\1\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.AssemblyReference.cache
+D:\java\practice\1\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.SuggestedBindingRedirects.cache
+D:\java\practice\1\lab1_1\lab1_1\obj\Debug\lab1_1.csproj.CoreCompileInputs.cache
+D:\java\practice\1\lab1_1\lab1_1\obj\Debug\lab1_1.exe
+D:\java\practice\1\lab1_1\lab1_1\obj\Debug\lab1_1.pdb
